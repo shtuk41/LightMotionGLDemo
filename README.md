@@ -1,7 +1,7 @@
 # LightMotionGLDemo
 A game demonstrating handling light, motion, and cameras in OpenGL
 
-It has dependencies on freeglut (https://freeglut.sourceforge.net/), glew32 (https://glew.sourceforge.net/basic.html), and a library written by Edward Angel (https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/) used in Computer Graphics course.  It was developed for school project in 2011.
+It has dependencies on freeglut (https://freeglut.sourceforge.net/), glew32 (https://glew.sourceforge.net/basic.html), and a linear algebra library written by Edward Angel (https://www.cs.unm.edu/~angel/BOOK/INTERACTIVE_COMPUTER_GRAPHICS/SIXTH_EDITION/) used in Computer Graphics course.  It was developed for school project in 2011.
 
 Controls:  
 
